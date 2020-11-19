@@ -1,0 +1,66 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.lacuisine"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:5:5-21:19
+12        android:allowBackup="true"
+12-->E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/logo_bentuk"
+15-->E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/logo_bentuk"
+17-->E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:9:9-48
+18        android:supportsRtl="true"
+18-->E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity android:name="com.example.lacuisine.MainActivity" />
+21-->E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:12:9-59
+21-->E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:12:19-47
+22        <activity
+22-->E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:13:9-20:20
+23            android:name="com.example.lacuisine.Splash"
+23-->E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:13:19-41
+24            android:theme="@style/Theme.AppCompat.NoActionBar" >
+24-->E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:14:13-63
+25            <intent-filter>
+25-->E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:15:13-19:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:16:17-69
+26-->E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:16:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:18:17-77
+28-->E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:18:27-74
+29            </intent-filter>
+30        </activity>
+31
+32        <uses-library
+32-->[androidx.window:window:1.0.0-alpha01] C:\Users\user\.gradle\caches\transforms-2\files-2.1\68a1f8ee6a5d02db8ce20ce72414cc83\jetified-window-1.0.0-alpha01\AndroidManifest.xml:25:9-27:40
+33            android:name="androidx.window.extensions"
+33-->[androidx.window:window:1.0.0-alpha01] C:\Users\user\.gradle\caches\transforms-2\files-2.1\68a1f8ee6a5d02db8ce20ce72414cc83\jetified-window-1.0.0-alpha01\AndroidManifest.xml:26:13-54
+34            android:required="false" />
+34-->[androidx.window:window:1.0.0-alpha01] C:\Users\user\.gradle\caches\transforms-2\files-2.1\68a1f8ee6a5d02db8ce20ce72414cc83\jetified-window-1.0.0-alpha01\AndroidManifest.xml:27:13-37
+35        <uses-library
+35-->[androidx.window:window:1.0.0-alpha01] C:\Users\user\.gradle\caches\transforms-2\files-2.1\68a1f8ee6a5d02db8ce20ce72414cc83\jetified-window-1.0.0-alpha01\AndroidManifest.xml:28:9-30:40
+36            android:name="androidx.window.sidecar"
+36-->[androidx.window:window:1.0.0-alpha01] C:\Users\user\.gradle\caches\transforms-2\files-2.1\68a1f8ee6a5d02db8ce20ce72414cc83\jetified-window-1.0.0-alpha01\AndroidManifest.xml:29:13-51
+37            android:required="false" />
+37-->[androidx.window:window:1.0.0-alpha01] C:\Users\user\.gradle\caches\transforms-2\files-2.1\68a1f8ee6a5d02db8ce20ce72414cc83\jetified-window-1.0.0-alpha01\AndroidManifest.xml:30:13-37
+38    </application>
+39
+40</manifest>

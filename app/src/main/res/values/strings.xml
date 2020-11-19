@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LaCuisine</string>
+    <string name="foods">Foods</string>
+    <string name="beverages">Beverages</string>
+    <string name="desserts">Desserts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="check_out">Check Out</string>
+    <string name="menu_descript">Menu Descript</string>
+    <string name="menu_name">Menu Name</string>
+    <string name="menu_price">Menu Price</string>
+    <string name="your_dessert">Your Dessert</string>
+    <string name="your_food">Your Food</string>
+    <string name="your_drink">Your Drink</string>
+    <string name="table_number">Table Number</string>
+    <string name="quantity">Quantity</string>
+
+</resources>
