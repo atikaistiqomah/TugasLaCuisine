@@ -20,9 +20,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.example.lacuisine.MainActivity" />
-        <activity
-            android:name="com.example.lacuisine.Splash"
-            android:theme="@style/Theme.AppCompat.NoActionBar" >
+        <activity android:name="com.example.lacuisine.Splash" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

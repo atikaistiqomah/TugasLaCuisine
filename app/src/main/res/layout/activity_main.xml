@@ -17,22 +17,28 @@
         app:tabTextColor="#FFFFFF">
 
         <com.google.android.material.tabs.TabItem
-            android:id="@+id/tabfood"
+            android:id="@+id/food"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/foods" />
 
         <com.google.android.material.tabs.TabItem
-            android:id="@+id/tabbeverage"
+            android:id="@+id/drink"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/beverages" />
 
         <com.google.android.material.tabs.TabItem
-            android:id="@+id/tabdessert"
+            android:id="@+id/dessert"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/desserts" />
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/tambah"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pesan" />
 
     </com.google.android.material.tabs.TabLayout>
 

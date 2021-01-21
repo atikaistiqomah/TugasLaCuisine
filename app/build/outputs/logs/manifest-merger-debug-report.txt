@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:2:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\3650ec8bf0dcc8ccaa9d86d2cec22c9f\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b5cf40796c25367401fbf6ec124658c0\material-1.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\be6327719512c19af6e3dfcc948c3a09\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
@@ -43,25 +43,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\user\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\abfb1986835d7863ad588927944dd5ef\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\88958e78a03a39da36d379d2c8b6a4b0\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\faa46d3172606436a70f4954c4fe88af\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:3:5-36
 		INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml
 		INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml
-		ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:2:1-22:12
 		INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml
-		ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:2:1-22:12
 		INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:5:5-21:19
+ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:5:5-20:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\3650ec8bf0dcc8ccaa9d86d2cec22c9f\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\user\.gradle\caches\transforms-2\files-2.1\3650ec8bf0dcc8ccaa9d86d2cec22c9f\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b5cf40796c25367401fbf6ec124658c0\material-1.2.1\AndroidManifest.xml:22:5-20
@@ -91,21 +91,19 @@ ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifes
 	android:name
 		ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:12:19-47
 activity#com.example.lacuisine.Splash
-ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:13:9-20:20
-	android:theme
-		ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:14:13-63
+ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:13:9-19:20
 	android:name
 		ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:13:19-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml:17:27-74
 uses-sdk
 INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\Unila\KULIAH\Sem5\Android\ProjectTubes\app\src\main\AndroidManifest.xml

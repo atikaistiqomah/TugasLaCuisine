@@ -15,12 +15,13 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 
+import java.util.Collections;
 import java.util.List;
 
 public class MenuAdapter extends RecyclerView.Adapter<MenuAdapter.MViewHolder> {
 
     private Context mContext;
-    private List<Menu> mMenu;
+    private List<Menu> mMenu = Collections.emptyList();
     private Dialog mDialog;
 
     public MenuAdapter(Context mContext, List<Menu> mMenu) {
@@ -47,10 +48,10 @@ public class MenuAdapter extends RecyclerView.Adapter<MenuAdapter.MViewHolder> {
                 TextView dialogDesc_tv = (TextView) mDialog.findViewById(R.id.dialog_desc);
                 ImageView dialogImage_iv = (ImageView) mDialog.findViewById(R.id.dialog_image);
 
-                dialogName_tv.setText(mMenu.get(mHolder.getAdapterPosition()).getName());
-                dialogPrice_tv.setText(mMenu.get(mHolder.getAdapterPosition()).getPrice());
-                dialogDesc_tv.setText(mMenu.get(mHolder.getAdapterPosition()).getDesc());
-                dialogImage_iv.setImageResource(mMenu.get(mHolder.getAdapterPosition()).getImage());
+                dialogName_tv.setText(mMenu.get(mHolder.getAdapterPosition()).getNama());
+                dialogPrice_tv.setText(mMenu.get(mHolder.getAdapterPosition()).getHarga());
+                dialogDesc_tv.setText(mMenu.get(mHolder.getAdapterPosition()).getDeskripsi());
+                //dialogImage_iv.setTag(mMenu.get(mHolder.getAdapterPosition()).getGambar());
 
                 mDialog.show();
             }
@@ -62,9 +63,9 @@ public class MenuAdapter extends RecyclerView.Adapter<MenuAdapter.MViewHolder> {
     @Override
     public void onBindViewHolder(@NonNull final MViewHolder holder, int position) {
 
-        holder.tv_name.setText(mMenu.get(position).getName());
-        holder.tv_price.setText(mMenu.get(position).getPrice());
-        holder.iv_image.setImageResource(mMenu.get(position).getImage());
+        holder.tv_name.setText(mMenu.get(position).getNama());
+        holder.tv_price.setText(mMenu.get(position).getHarga());
+        //holder.iv_image.setTag(mMenu.get(position).getGambar());
     }
 
     @Override

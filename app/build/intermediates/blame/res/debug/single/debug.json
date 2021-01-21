@@ -4,16 +4,16 @@
         "source": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\src\\main\\res\\layout\\dialog_count.xml"
     },
     {
-        "merged": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ayam_goreng.jpg.flat",
-        "source": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\src\\main\\res\\drawable\\ayam_goreng.jpg"
+        "merged": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
         "merged": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ikan_bakar.jpg.flat",
         "source": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\src\\main\\res\\drawable\\ikan_bakar.jpg"
     },
     {
-        "merged": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ayam_goreng.jpg.flat",
+        "source": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\src\\main\\res\\drawable\\ayam_goreng.jpg"
     },
     {
         "merged": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -46,6 +46,10 @@
     {
         "merged": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_splash.png.flat",
+        "source": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\src\\main\\res\\drawable\\bg_splash.png"
     },
     {
         "merged": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_bentuk.png.flat",
@@ -140,12 +144,12 @@
         "source": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\src\\main\\res\\drawable\\pisang_keju_coklat.jpg"
     },
     {
-        "merged": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_beverage.xml.flat",
-        "source": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\src\\main\\res\\layout\\fragment_beverage.xml"
-    },
-    {
         "merged": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_tulisan.png.flat",
         "source": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\src\\main\\res\\drawable\\logo_tulisan.png"
+    },
+    {
+        "merged": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_beverage.xml.flat",
+        "source": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\src\\main\\res\\layout\\fragment_beverage.xml"
     },
     {
         "merged": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dessert.xml.flat",
@@ -160,8 +164,16 @@
         "source": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
+        "merged": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tambah.xml.flat",
+        "source": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\src\\main\\res\\layout\\fragment_tambah.xml"
+    },
+    {
         "merged": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pisang_goreng.jpg.flat",
         "source": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\src\\main\\res\\drawable\\pisang_goreng.jpg"
+    },
+    {
+        "merged": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_recycler.xml.flat",
+        "source": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\src\\main\\res\\layout\\view_recycler.xml"
     },
     {
         "merged": "E:\\Unila\\KULIAH\\Sem5\\Android\\ProjectTubes\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",

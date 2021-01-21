@@ -1,31 +1,50 @@
 package com.example.lacuisine;
 
 public class Menu {
-    private String Name;
-    private String Price;
-    private String Desc;
-    private int Image;
+    private int id;
+    private String nama;
+    private String gambar;
+    private String harga;
+    private String deskripsi;
 
-    public Menu(String name, String price, String desc, int image) {
-        Name = name;
-        Price = price;
-        Desc = desc;
-        Image = image;
+
+    public int getId() {
+        return id;
     }
 
-    public String getName() {
-        return Name;
+    public void setId(int id) {
+        this.id = id;
     }
 
-    public String getPrice() {
-        return Price;
+    public String getNama() {
+        return nama;
     }
 
-    public String getDesc() {
-        return Desc;
+    public void setNama(String nama) {
+        this.nama = nama;
     }
 
-    public int getImage() {
-        return Image;
+    public String getGambar() {
+        return gambar;
+    }
+
+    public void setGambar(String gambar) {
+        this.gambar = gambar;
+    }
+
+    public String getHarga() {
+        return harga;
+    }
+
+    public void setHarga(String harga) {
+        this.harga = harga;
+    }
+
+    public String getDeskripsi() {
+        return deskripsi;
+    }
+
+    public void setDeskripsi(String deskripsi) {
+        this.deskripsi = deskripsi;
     }
 }

@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private ViewPager viewPager;
     private PagerAdapter adapter;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -21,13 +22,14 @@ public class MainActivity extends AppCompatActivity {
 
         getSupportActionBar().setElevation(0);
 
-        tabLayout = (TabLayout) findViewById(R.id.tabmain);
-        viewPager = (ViewPager) findViewById(R.id.viewpager);
+        tabLayout = findViewById(R.id.tabmain);
+        viewPager = findViewById(R.id.viewpager);
         adapter = new PagerAdapter(getSupportFragmentManager());
 
         adapter.AddFragment(new FoodFragment(), "food");
         adapter.AddFragment(new BeverageFragment(), "beverage");
         adapter.AddFragment(new DessertFragment(), "dessert");
+        adapter.AddFragment(new TambahFragment(), "tambah");
 
         viewPager.setAdapter(adapter);
         tabLayout.setupWithViewPager(viewPager);

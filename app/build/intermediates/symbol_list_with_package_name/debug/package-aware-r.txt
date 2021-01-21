@@ -1533,6 +1533,7 @@ drawable ayam_bakar
 drawable ayam_goreng
 drawable bakmi_ayam
 drawable beef_rendang
+drawable bg_splash
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -1731,6 +1732,7 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id dessert
 id dialog_button
 id dialog_desc
 id dialog_image
@@ -1747,6 +1749,7 @@ id dragLeft
 id dragRight
 id dragStart
 id dragUp
+id drink
 id dropdown_menu
 id easeIn
 id easeInOut
@@ -1768,6 +1771,7 @@ id fitToContents
 id fixed
 id flip
 id floating
+id food
 id forever
 id ghost_view
 id ghost_view_holder
@@ -1881,6 +1885,7 @@ id row_index_key
 id rv_beverage
 id rv_dessert
 id rv_food
+id rv_item
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -1936,9 +1941,6 @@ id stretch
 id submenuarrow
 id submit_area
 id tabMode
-id tabbeverage
-id tabdessert
-id tabfood
 id tabmain
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -1948,6 +1950,7 @@ id tag_screen_reader_focusable
 id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
+id tambah
 id test_checkbox_android_button_tint
 id test_checkbox_app_button_tint
 id test_radiobutton_android_button_tint
@@ -2077,6 +2080,7 @@ layout dialog_count
 layout fragment_beverage
 layout fragment_dessert
 layout fragment_food
+layout fragment_tambah
 layout item_menu
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
@@ -2139,6 +2143,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+layout view_recycler
 mipmap ic_launcher
 mipmap ic_launcher_round
 mipmap logo_bentuk
@@ -2186,11 +2191,13 @@ string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string foods
+string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
 string material_slider_range_end
 string material_slider_range_start
+string menu
 string menu_descript
 string menu_name
 string menu_price
@@ -2234,10 +2241,12 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string pesan
 string quantity
 string search_menu_title
 string status_bar_notification_info_overflow
 string table_number
+string tambah_data
 string your_dessert
 string your_drink
 string your_food
