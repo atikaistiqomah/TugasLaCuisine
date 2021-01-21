@@ -20,10 +20,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+<<<<<<< HEAD
         getSupportActionBar().setElevation(0);
 
         tabLayout = findViewById(R.id.tabmain);
         viewPager = findViewById(R.id.viewpager);
+=======
+        tabLayout = (TabLayout) findViewById(R.id.tabmain);
+        viewPager = (ViewPager) findViewById(R.id.viewpager);
+>>>>>>> 2b3505e4c0baf0a67cd344e6fa5eefdd4ef19d0e
         adapter = new PagerAdapter(getSupportFragmentManager());
 
         adapter.AddFragment(new FoodFragment(), "food");

@@ -24,4 +24,8 @@
         android:layout_gravity="center_horizontal"
         android:src="@drawable/logo_tulisan" />
 
+<<<<<<< HEAD
 </LinearLayout>
+=======
+</LinearLayout>
+>>>>>>> 2b3505e4c0baf0a67cd344e6fa5eefdd4ef19d0e
